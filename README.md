@@ -5,6 +5,7 @@
 		alt="js"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">
 <p>
+	
 ## Project created during the 4Geeks course.
 
 The project is using the SQLAlchemy Python library to generate the database with their endpoints.
